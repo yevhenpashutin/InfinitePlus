@@ -4,6 +4,12 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Photo Library Access</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Photo Library Access</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Camera Library Access</string>
 	<key>CFBundleDisplayName</key>
 	<string>InfinitePlus</string>
 	<key>CFBundleExecutable</key>
